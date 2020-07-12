@@ -1,0 +1,17 @@
+<ECF>
+	<Algorithm>
+		<SteadyStateTournament>
+            <Entry key="tsize">3</Entry>
+		</SteadyStateTournament>
+	</Algorithm>
+
+	<Genotype>
+		<MsaGenotype>
+
+		</MsaGenotype>
+	</Genotype>
+
+	<Registry>
+        <Entry key="input">FASTA.txt</Entry>
+	</Registry>
+</ECF>

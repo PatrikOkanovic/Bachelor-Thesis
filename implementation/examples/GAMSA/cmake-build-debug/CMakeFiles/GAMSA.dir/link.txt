@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/GAMSA.dir/main.cpp.o CMakeFiles/GAMSA.dir/MsaGenotypeMut.cpp.o CMakeFiles/GAMSA.dir/MsaGenotypeCrsOnePoint.cpp.o CMakeFiles/GAMSA.dir/MsaEvalOp.cpp.o CMakeFiles/GAMSA.dir/FastaParser.cpp.o CMakeFiles/GAMSA.dir/MsaGenotypeMutInsertGap.cpp.o CMakeFiles/GAMSA.dir/MsaGenotypeMutDeleteGap.cpp.o  -o GAMSA  ../../../debug/libECF.a 

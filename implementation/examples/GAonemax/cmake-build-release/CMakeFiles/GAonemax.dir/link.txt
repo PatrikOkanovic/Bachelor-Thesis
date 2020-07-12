@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/GAonemax.dir/main.cpp.o CMakeFiles/GAonemax.dir/OneMaxEvalOp.cpp.o  -o GAonemax  ../../../release/libECF.a 

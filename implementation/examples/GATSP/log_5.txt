@@ -1,0 +1,54 @@
+Running in batch mode: run 5/10
+Start time: Wed Jul 12 15:57:27 2017
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 1000
+Stats: fitness
+	max: 7222
+	min: 4745
+	avg: 5979.32
+	stdev: 438.876
+
+Generation: 1
+Elapsed time: 0
+Deme: 0
+Evaluations: 2114
+Stats: fitness
+	max: 7051
+	min: 4428
+	avg: 5604.54
+	stdev: 386.781
+
+Generation: 100
+Elapsed time: 1
+Deme: 0
+Evaluations: 116418
+Stats: fitness
+	max: 3797
+	min: 2020
+	avg: 2115.11
+	stdev: 208.447
+
+Generation: 200
+Elapsed time: 2
+Deme: 0
+Evaluations: 231736
+Stats: fitness
+	max: 5585
+	min: 2020
+	avg: 2078.9
+	stdev: 215.832
+
+Termination: max generation reached (200)
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="96">
+		<FitnessMin value="2020"/>
+		<Permutation size="29">	25	28	2	1	19	9	3	14	17	16	13	21	10	18	24	6	22	26	7	23	15	12	20	0	27	5	11	8	4</Permutation>
+	</Individual>
+</HallOfFame>
+

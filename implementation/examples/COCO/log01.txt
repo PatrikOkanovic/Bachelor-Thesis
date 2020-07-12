@@ -1,0 +1,133 @@
+Start time: Wed Jul 12 15:56:22 2017
+
+Evaluating initial population...
+Generation: 0
+Elapsed time: 0
+Deme: 0
+Evaluations: 100
+Stats: fitness
+	max: 238.609
+	min: 34.1398
+	avg: 106.462
+	stdev: 36.8298
+
+Generation: 1
+Elapsed time: 0
+Deme: 0
+Evaluations: 200
+Stats: fitness
+	max: 238.609
+	min: 11.6488
+	avg: 52.428
+	stdev: 33.4676
+
+Generation: 100
+Elapsed time: 0
+Deme: 0
+Evaluations: 10100
+Stats: fitness
+	max: 17.0258
+	min: 0.000221785
+	avg: 0.37232
+	stdev: 1.90627
+
+Generation: 200
+Elapsed time: 0
+Deme: 0
+Evaluations: 20100
+Stats: fitness
+	max: 22.736
+	min: 5.72986e-06
+	avg: 0.552463
+	stdev: 2.76773
+
+Generation: 300
+Elapsed time: 0
+Deme: 0
+Evaluations: 30100
+Stats: fitness
+	max: 32.5926
+	min: 5.69763e-06
+	avg: 1.72747
+	stdev: 5.48734
+
+Generation: 400
+Elapsed time: 0
+Deme: 0
+Evaluations: 40100
+Stats: fitness
+	max: 31.0131
+	min: 3.73401e-08
+	avg: 1.06769
+	stdev: 4.53963
+
+Generation: 500
+Elapsed time: 0
+Deme: 0
+Evaluations: 50100
+Stats: fitness
+	max: 41.1456
+	min: 1.41939e-08
+	avg: 1.38986
+	stdev: 5.26681
+
+Generation: 600
+Elapsed time: 1
+Deme: 0
+Evaluations: 60100
+Stats: fitness
+	max: 52.707
+	min: 1.4193e-08
+	avg: 2.73108
+	stdev: 8.11861
+
+Generation: 700
+Elapsed time: 1
+Deme: 0
+Evaluations: 70100
+Stats: fitness
+	max: 48.7593
+	min: 1.4193e-08
+	avg: 1.24289
+	stdev: 5.85511
+
+Generation: 800
+Elapsed time: 1
+Deme: 0
+Evaluations: 80100
+Stats: fitness
+	max: 39.3884
+	min: 1.4193e-08
+	avg: 0.882827
+	stdev: 4.74111
+
+Generation: 900
+Elapsed time: 1
+Deme: 0
+Evaluations: 90100
+Stats: fitness
+	max: 40.4787
+	min: 1.16373e-08
+	avg: 1.50513
+	stdev: 6.2322
+
+Generation: 999
+Elapsed time: 1
+Deme: 0
+Evaluations: 100000
+Stats: fitness
+	max: 56.9223
+	min: 1.16367e-08
+	avg: 1.2937
+	stdev: 6.64232
+
+Termination: max evaluations reached (100000)
+
+Best of run: 
+<HallOfFame size="1">
+	<Individual size="1" gen="959">
+		<FitnessMin value="1.16367e-08"/>
+		<FloatingPoint size="10">	0.2528	-1.1568	-0.724	1.9265	-2.68083	0.439199	-0.1168	0.120009	-1.6376	-3.0512</FloatingPoint>
+	</Individual>
+</HallOfFame>
+

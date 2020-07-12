@@ -1,0 +1,6 @@
+>first
+ATTGCCGACT
+>second
+AC
+>third
+GACCCTAG
